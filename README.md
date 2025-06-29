@@ -1,6 +1,6 @@
 # zap_share
 
-A new Flutter project.
+A file sharing application with simple and seamless file transfer 
 
 ## Getting Started
 
